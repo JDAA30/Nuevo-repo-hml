@@ -1,0 +1,16 @@
+.b1 {
+    background-color: #1abc9c;
+    color: aliceblue;
+}
+.texto{
+    background-color: dimgray;
+    color:white ;
+}
+.texto2{
+    background-color:  white;
+    color:darkslategrey ;
+}
+.container-fluid{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
